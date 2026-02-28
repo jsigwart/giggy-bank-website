@@ -119,6 +119,12 @@ export default function Home() {
               Privacy Policy
             </Link>
             <Link
+              href="/terms"
+              className="text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors"
+            >
+              Terms of Service
+            </Link>
+            <Link
               href="/support"
               className="text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors"
             >
