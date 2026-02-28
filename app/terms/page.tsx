@@ -2,12 +2,6 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export default function Terms() {
-  const effectiveDate = new Date().toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-
   return (
     <div className="min-h-screen px-6 py-12">
       <div className="max-w-3xl mx-auto">
@@ -21,7 +15,7 @@ export default function Terms() {
 
         <h1 className="text-4xl font-bold mb-2">Terms of Service</h1>
         <p className="text-neutral-500 dark:text-neutral-400 mb-8">
-          Effective Date: {effectiveDate}
+          Effective Date: February 28, 2025
         </p>
 
         <div className="prose prose-neutral dark:prose-invert max-w-none space-y-8">
