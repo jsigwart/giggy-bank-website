@@ -4,9 +4,9 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import { ArrowLeft } from "lucide-react";
 
-export default function PrivacyPolicy() {
+export default function Terms() {
   const content = fs.readFileSync(
-    path.join(process.cwd(), "content", "privacy-policy.md"),
+    path.join(process.cwd(), "content", "terms.md"),
     "utf-8"
   );
 
