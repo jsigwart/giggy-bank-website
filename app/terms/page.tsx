@@ -12,18 +12,18 @@ export default function Terms() {
 
   return (
     <div className="min-h-screen px-6 py-12">
-      <div className="max-w-3xl mx-auto">
+      <div className="mx-auto max-w-3xl">
         <Link
           href="/"
-          className="inline-flex items-center gap-2 text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white transition-colors mb-8"
+          className="mb-8 inline-flex items-center gap-2 text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white"
         >
-          <ArrowLeft className="w-4 h-4" />
+          <ArrowLeft className="h-4 w-4" />
           Back to Home
         </Link>
 
-        <div className="prose prose-neutral dark:prose-invert max-w-none">
+        <article className="markdown-content">
           <ReactMarkdown>{content}</ReactMarkdown>
-        </div>
+        </article>
       </div>
     </div>
   );
