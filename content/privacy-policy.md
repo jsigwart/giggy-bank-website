@@ -1,40 +1,66 @@
 # Privacy Policy
 
-**Effective Date: February 28, 2025**
+**Effective Date: March 1, 2026**
 
 ## Overview
 
-GiggyBank is designed with your privacy as a top priority. We believe your earnings data is personal and should stay that way. This Privacy Policy explains how we handle your information.
+GiggyBank is designed to give users control over their own earnings data. Most data in GiggyBank is stored locally on the user’s device. If the user chooses to enable Cloud Backup, certain app data is also transmitted to and stored with a third-party cloud service provider so the data can be backed up and restored later.
 
 ## Data Storage
 
-All data you enter into GiggyBank is stored locally on your device. Your trip logs, earnings, mileage, and time tracking information never leave your phone. We do not have servers that store your personal data, and we cannot access your information.
+By default, GiggyBank stores data locally on the user’s device.
 
-## No Personal Data Collection
+If the user enables Cloud Backup, GiggyBank transmits and stores a backup of certain app data on secure servers operated by a third-party service provider acting on our behalf. This is used only to provide backup and restore functionality.
 
-We do not collect, transmit, or store any personal data. This includes but is not limited to:
+## Data We May Store Through Cloud Backup
+If Cloud Backup is enabled, the backup may include:
 
-- Your name or contact information
-- Your location or GPS data
-- Your earnings or financial information
-- Your trip history or work patterns
-- Device identifiers or usage data
+- Trip logs and earnings entries
+- Mileage, hours, pay, tips, and related work records
+- App settings
+- Platform lists, including custom platform names entered by the user
+- California adjustment records
+- Theme preference
+- Onboarding status
+- Bvackup metadata such as export date and backup version
 
-## No Analytics or Tracking
+## Identifiers
 
-GiggyBank does not use any analytics services, tracking pixels, or third-party SDKs that collect user data. We do not track how you use the app, which features you access, or any behavioral data. Your usage of GiggyBank is completely private.
+If Cloud Backup is enabled, GiggyBank uses a random app-generated device identifier to associate a backup with the user’s device so that backup data can be restored later. GiggyBank does not require the user to create an account or provide a name or email address to use this feature.
 
-## No Advertisements
+## How We Use Data
 
-GiggyBank does not display advertisements. Because we don't show ads, we have no need to collect data for advertising purposes or share information with ad networks.
+We use backup data only to:
+
+- Store the user’s backup
+- Restore the user’s data
+- Support related app functionality
+
+We do not use this data for advertising, marketing, profiling, or analytics.
+
+## No Tracking or Advertising
+
+GiggyBank does not use user data for cross-app tracking. We do not sell user data, share it with data brokers, or use it for third-party advertising.
+
+## No Analytics SDKs or Behavioral Tracking
+
+GiggyBank does not use analytics services or third-party SDKs to track how users interact with the app for advertising or marketing purposes.
 
 ## No Account Required
 
-You can use GiggyBank without creating an account or providing any personal information. Simply download the app and start tracking your earnings.
+Users can use GiggyBank without creating an account. Cloud Backup is optional.
 
 ## Data Sharing
 
-Since we don't collect any data, we have nothing to share with third parties. Your information stays on your device and is never transmitted to us or anyone else.
+We do not sell or disclose user data to advertisers or unrelated third parties. If Cloud Backup is enabled, backup data is stored with a third-party cloud service provider solely to provide backup and restore services on our behalf.
+
+## User Choice
+
+Cloud Backup is optional. Users may choose whether to enable it.
+
+## Data Retention
+
+If Cloud Backup is enabled, backup data may remain stored until it is replaced by a newer backup or deleted. If you have questions about deletion of cloud backup data, please contact us at the email below.
 
 ## Contact Us
 
